@@ -1,0 +1,21 @@
+Trabalho de redes 
+Alunos: andré altivo,Marcelo Mendes.
+
+decidimos por segurança que cada portão(GATE) tenta sua própria conexão
+ao inves de um código genérico.
+foi definidida uma estrutura pacote para enviar os dados.
+
+-----------------------------------------------------------------------
+no terminal linux Ctrl + Alt + t
+COMPILE O SERVIDOR 
+gcc -o server servidor4.c  
+
+COMPILE CADA PORTA APENAS TROCANDO O NUMERO DO EXEMPLO A SEGUIR
+gcc -o portao1 gate1.c
+
+feito isso
+
+excute o servidor 
+./server
+execute os portoes 
+./portao1

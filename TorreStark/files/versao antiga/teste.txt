@@ -1,0 +1,14 @@
+05/Oct/2018 - 22:00:41,p1,1458,autorizado
+28/Nov/2018 - 20:50:31,p0,,negado
+28/Nov/2018 - 20:50:44,p0,,negado
+28/Nov/2018 - 20:52:08,p0,,negado
+28/Nov/2018 - 20:53:30,p0,,negado
+28/Nov/2018 - 20:55:27,p0,,negado
+28/Nov/2018 - 20:56:19,p0,,negado
+28/Nov/2018 - 20:56:40,p1,1458,autorizado
+28/Nov/2018 - 20:57:24,p2,1458,autorizado
+28/Nov/2018 - 20:59:34,p1,1458,autorizado
+28/Nov/2018 - 20:59:45,p2,1458,autorizado
+28/Nov/2018 - 20:59:57,p3,1458,autorizado
+28/Nov/2018 - 22:09:12,p1,1458,autorizado
+28/Nov/2018 - 22:09:23,p1,1,negado
