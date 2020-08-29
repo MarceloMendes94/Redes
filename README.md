@@ -1,4 +1,6 @@
 # Trabalhos da disciplina de redes de computadores. 
+Alunos: 
+André Altivo, Marcelo Mendes.
 
 ## trabalhos 
 [Torre Stark](./TorreStark/README.md)
